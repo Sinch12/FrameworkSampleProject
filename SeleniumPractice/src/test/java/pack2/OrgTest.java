@@ -7,7 +7,12 @@ public class OrgTest {
 	public void createOrgTest() {
 		System.out.println("execute createOrgTest");
 	}
+	@Test
 	public void modifyOrgTest() {
+		System.out.println("execute modifyOrgTest");
+	}
+	@Test
+	public void DeleteOrgTest() {
 		System.out.println("execute modifyOrgTest");
 	}
 
