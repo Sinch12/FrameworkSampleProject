@@ -13,7 +13,7 @@ public class OrgTest {
 	}
 	@Test
 	public void DeleteOrgTest() {
-		System.out.println("execute modifyOrgTest");
+		System.out.println("executee modifyOrgTest");
 	}
 
 
