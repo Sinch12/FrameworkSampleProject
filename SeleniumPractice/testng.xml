@@ -3,8 +3,9 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.crm.comcast.contacttest.CreateContactTest"/>
-      <class name="com.crm.comcast.orgtest.CreateOrgTest"/>
+      <class name="pack1.ContactTest"/>
+      <class name="pack2.OrgTest"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
